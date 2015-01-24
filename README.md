@@ -26,7 +26,7 @@ Features of the gas detectors
 Hence the entire project is also compact and portable and has hence has numerous other applications ,i.e, it can used as a Domestic air pollution detector or as a Portable air pollution detector.
 
 
-TECHNOLOGIES TO BE USED:
+SUPPORTING SOFTWARES TO BE USED:
 
 -	Platform for writing and compiling code : Kiel uVision4
 -	Platform to burn the hex file into the micro controller : Flash Magic
